@@ -143,6 +143,9 @@ Calculated and analyzed metrics such as:
 - Customer identifier validation
 - Customer order relationships
 
+## 📊 Analysis Findings & Insights
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b99d4cf3-75ea-4103-9b9e-255936555d0e" />
+
 ### Order Analysis
 
 - Order status distribution
