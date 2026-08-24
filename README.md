@@ -32,7 +32,7 @@ The dataset contains multiple related tables covering areas such as:
 - Geolocation(Not used because of file size)
 
 The dataset contains approximately **100K orders** and related transactional records.
-
+Dataset kaggle link : https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 ---
 
 ## 🛠️ Tools & Technologies
