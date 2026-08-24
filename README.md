@@ -1,16 +1,16 @@
 # Olist-E-Commerce-SQL-Data-Cleaning-Business-Analysis
-A comprehensive SQL data analysis project using the Olist Brazilian E-Commerce dataset and MySQL. The project focuses on data exploration, cleaning, data quality validation, relational analysis, and extracting business insights from customers, orders, products, payments, reviews and delivery data.
+A comprehensive SQL data analysis project using the Olist Brazilian E-Commerce dataset and MySQL. The project focuses on data exploration, cleaning, data quality validation, relational analysis and extracting business insights from customers, orders, products, payments, reviews and delivery data.
 
 ## 🎯 Project Objectives
 
 - Understand the structure and relationships between multiple e-commerce tables
-- Explore customer, order, product, payment, review, and seller data
+- Explore customer, order, product, payment, review and seller data
 - Identify and handle data quality issues
-- Validate dates, NULL values, duplicates, and inconsistent records
+- Validate dates, NULL values, duplicates and inconsistent records
 - Establish appropriate primary and foreign key relationships
 - Perform relational analysis using SQL joins
 - Calculate important business metrics
-- Analyze customer, order, payment, product, review, and delivery data
+- Analyze customer, order, payment, product, review and delivery data
 - Generate actionable business insights from the dataset
 
 ---
@@ -29,7 +29,7 @@ The dataset contains multiple related tables covering areas such as:
 - Products
 - Sellers
 - Product Categories
-- Geolocation
+- Geolocation(Not used because of file size)
 
 The dataset contains approximately **100K orders** and related transactional records.
 
