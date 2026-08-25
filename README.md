@@ -212,3 +212,11 @@ Some of the major cleaning and validation tasks included:
 UPDATE orders
 SET order_date_new =
     STR_TO_DATE(order_date, '%d-%m-%Y %H:%i:%s');
+
+```
+## Author
+
+Developed by Anudeep
+GitHub: github.com/Anudeep-Marapally
+This project was developed and maintained by me as part of my portfolio and learning journey in data analytics.
+
