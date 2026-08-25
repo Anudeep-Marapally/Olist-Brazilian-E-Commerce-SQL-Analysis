@@ -216,7 +216,7 @@ SET order_date_new =
 ```
 ## Author
 
-Developed by Anudeep
-GitHub: github.com/Anudeep-Marapally
-This project was developed and maintained by me as part of my portfolio and learning journey in data analytics.
+- Developed by Anudeep
+- GitHub: github.com/Anudeep-Marapally
+- This project was developed and maintained by me as part of my portfolio and learning journey in data analytics.
 
